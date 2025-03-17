@@ -4,7 +4,11 @@ standing strong
  this chosen battle 
 
 From the lines
+<<<<<<< HEAD
 shield by shield
 
 some content
 and here!
+=======
+shield by shield
+>>>>>>> 032593cf73f01ade2e18d5b8b0dbe19a05cf8051
